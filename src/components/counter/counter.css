@@ -1,0 +1,37 @@
+.totalCount {
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+
+
+.buttonStyle {
+    font-size:30px;
+    background-color:#00a5ab;
+    width:100px;
+    margin:10px;
+    color:white;
+    padding:15px;
+    border-radius:30px;
+    border-color: black;
+    border-width: 5px;
+}
+
+.Counter
+{
+    font-size: 30px;
+    text-align: center;
+}
+
+.Reset {
+    font-size:30px;
+    background-color: purple;
+    width:100px;
+    margin:10px;
+    color:white;
+    padding:15px;
+    border-radius:30px;
+    border-color: black;
+    border-width: 5px;
+}
